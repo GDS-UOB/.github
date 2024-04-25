@@ -1,6 +1,6 @@
 # Games Development Society - University Of Birmingham
 
-## Welcome to the GDS-UOB organication homepage
+## Welcome to the GDS-UOB organisation homepage
 
 Here we have all of the repos that GDS are working on
 
